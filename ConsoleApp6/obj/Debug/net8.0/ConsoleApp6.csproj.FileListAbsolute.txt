@@ -1,0 +1,15 @@
+D:\oop\OOP4\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.exe
+D:\oop\OOP4\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.deps.json
+D:\oop\OOP4\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.runtimeconfig.json
+D:\oop\OOP4\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.dll
+D:\oop\OOP4\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.pdb
+D:\oop\OOP4\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\OOP4\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\oop\OOP4\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfo.cs
+D:\oop\OOP4\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\oop\OOP4\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.sourcelink.json
+D:\oop\OOP4\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.dll
+D:\oop\OOP4\ConsoleApp6\obj\Debug\net8.0\refint\ConsoleApp6.dll
+D:\oop\OOP4\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.pdb
+D:\oop\OOP4\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.genruntimeconfig.cache
+D:\oop\OOP4\ConsoleApp6\obj\Debug\net8.0\ref\ConsoleApp6.dll
